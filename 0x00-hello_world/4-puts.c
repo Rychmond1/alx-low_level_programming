@@ -1,9 +1,9 @@
-#include <stdio.h>
 /**
- *  * main - Entry point
- *   *
- *    * Return: always 0* */
- 
+ * main -entry point
+ *
+ * Return: 0 after printing the function
+ */
+#include <stdio.h>
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
